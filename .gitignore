@@ -1,0 +1,12 @@
+*.orig
+*.rej
+*~
+*.o
+*.pyc
+*.swp
+*.svn
+*.sock
+*.pid
+*_thumb*
+.DS_Store
+*_thumb_*

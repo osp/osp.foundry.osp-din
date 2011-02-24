@@ -1,0 +1,18 @@
+This repository is a skeleton your can use as a model to package your fonts.
+This text file explains the structure of this sample repository. Replace the
+ccontent of this file with general information on the font.
+
+Structure
+=========
+
++osp.foundry.fontname
+`-+ README                 General information on the font
+  +- regular/              Per weight/style directory
+    `+ work/               Working files
+     `+ fontname.sfdir/    Fontforge font directory
+     + release/            Release files
+     `+ fontname.ufo/      UFO font directory
+  + COPYING                Copyright info
+  + FONTLOG                Font log
+  + GPL-V3                 Text of the license
+
