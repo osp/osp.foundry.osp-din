@@ -1,0 +1,23 @@
+
+StartChar: adieresis
+Encoding: 228 228 102
+Width: 733
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+51 1432 m 5,0,-1
+ 254 1432 l 5,1,-1
+ 254 1229 l 5,2,-1
+ 51 1229 l 5,3,-1
+ 51 1432 l 5,0,-1
+461 1432 m 5,4,-1
+ 664 1432 l 5,5,-1
+ 664 1229 l 5,6,-1
+ 461 1229 l 5,7,-1
+ 461 1432 l 5,4,-1
+EndSplineSet
+Refer: 51 97 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar
