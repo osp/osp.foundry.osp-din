@@ -1,0 +1,18 @@
+
+StartChar: eacute
+Encoding: 233 233 105
+Width: 749
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+454 1485 m 1
+ 658 1485 l 1
+ 454 1229 l 1
+ 300 1229 l 1
+ 454 1485 l 1
+EndSplineSet
+Refer: 55 101 S 1 0 0 1 0 0 2
+Validated: 1
+EndChar

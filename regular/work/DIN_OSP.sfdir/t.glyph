@@ -1,0 +1,30 @@
+
+StartChar: t
+Encoding: 116 116 70
+Width: 432
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+113 1329 m 1,0,-1
+ 317 1329 l 1,1,-1
+ 317 1022 l 1,2,-1
+ 420 1022 l 1,3,-1
+ 420 817 l 1,4,-1
+ 317 817 l 1,5,-1
+ 317 305 l 2,6,7
+ 317 264 317 264 347 233.5 c 128,-1,8
+ 377 203 377 203 420 203 c 1,9,-1
+ 420 -2 l 1,10,11
+ 293 -2 293 -2 203 88 c 128,-1,12
+ 113 178 113 178 113 305 c 2,13,-1
+ 113 817 l 1,14,-1
+ 10 817 l 1,15,-1
+ 10 1022 l 1,16,-1
+ 113 1022 l 1,17,-1
+ 113 1329 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 74 96 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  73 71 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  72 74 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  76 51 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  75 65 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0" 
+EndChar

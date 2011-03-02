@@ -1,0 +1,19 @@
+
+StartChar: ograve
+Encoding: 242 242 112
+Width: 753
+GlyphClass: 2
+Flags: W
+HStem: 1393 41G<98 326>
+LayerCount: 2
+Fore
+SplineSet
+98 1434 m 1
+ 301 1434 l 1
+ 455 1180 l 1
+ 303 1180 l 1
+ 98 1434 l 1
+EndSplineSet
+Refer: 65 111 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,25 @@
+
+StartChar: edieresis
+Encoding: 235 235 107
+Width: 749
+GlyphClass: 2
+Flags: W
+HStem: 1227 205<68 272 477 682>
+VStem: 68 205<1227 1432> 477 205<1227 1432>
+LayerCount: 2
+Fore
+SplineSet
+68 1432 m 1
+ 272 1432 l 1
+ 272 1227 l 1
+ 68 1227 l 1
+ 68 1432 l 1
+477 1432 m 1
+ 682 1432 l 1
+ 682 1227 l 1
+ 477 1227 l 1
+ 477 1432 l 1
+EndSplineSet
+Refer: 55 101 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
