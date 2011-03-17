@@ -1,0 +1,52 @@
+
+FONTLOG for OSP-DIN
+-------------------
+This file provides detailed information on the OSP-DIN font software.
+This information should be distributed along with the OSP-DIN fonts
+and any derivative works.
+
+Basic Font Information
+--------------------------
+Copyright (c) 2011, OSP (http://ospublish.constantvzw.org)
+The OSP-DIN is based 
+
+see
+http://ospublish.constantvzw.org/works/osp-bpi-cinema-du-reel
+http://ospublish.constantvzw.org/news/osp-full-scale-in-beaubourg
+
+OSP-DIN currently provides the following Unicode coverage:
+Basic Latin: 90/95 
+Latin-1 Supplement: 48/96 
+
+Information for Contributors
+------------------------------
+Copyright (C) 2011 OSP.
+
+This Font Software is licensed under the - - - License
+
+See the project website for the current trunk and the various branches:
+http://ospublish.constantvzw.org/foundry/alfphabet
+
+ChangeLog
+----------
+(This should list both major and minor changes, most recent first.)
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Antoine Begon
+E: 
+W:  
+
+
+N: Ludivine Loiseau
+E: hello_at_ludi_dot_be
+W: http://ospublish.constantvzw.org 
+
+N: Harrisson
+W: http://ospublish.constantvzw.org 
+
+
