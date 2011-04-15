@@ -6,6 +6,6 @@ VWidth: 0
 Flags: H
 LayerCount: 2
 Fore
-Refer: 62 96 N 1 0 0 1 -113 71 2
-Refer: 137 244 N 1 0 0 1 0 0 3
+Refer: 62 96 N 1 0 0 1 237 152 2
+Refer: 137 244 S 1 0 0 1 0 0 3
 EndChar

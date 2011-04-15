@@ -36,5 +36,5 @@ SplineSet
  281 769.833 271 745.667 271 717 c 2
  271 614 l 1
 EndSplineSet
-Refer: 61 94 S 1 0 0 1 0 0 2
+Refer: 61 94 S 1 0 0 1 20.0001 -64 2
 EndChar

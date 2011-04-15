@@ -3,9 +3,9 @@ StartChar: uni1EA7
 Encoding: 7847 7847 157
 Width: 733
 VWidth: 0
-Flags: HO
+Flags: H
 LayerCount: 2
 Fore
-Refer: 62 96 N 1 0 0 1 176 153 2
-Refer: 123 226 N 1 0 0 1 0 0 3
+Refer: 62 96 N 1 0 0 1 213 153 2
+Refer: 123 226 S 1 0 0 1 0 0 3
 EndChar
