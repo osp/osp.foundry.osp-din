@@ -2,9 +2,9 @@
 StartChar: Otilde
 Encoding: 213 213 114
 Width: 786
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 46 79 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

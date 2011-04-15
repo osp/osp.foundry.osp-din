@@ -2,9 +2,9 @@
 StartChar: exclamdown
 Encoding: 161 161 93
 Width: 434
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 4 33 N 1 0 0 -1 0 1434 2
-Validated: 25
 EndChar

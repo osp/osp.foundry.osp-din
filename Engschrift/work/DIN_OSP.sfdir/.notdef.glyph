@@ -2,6 +2,6 @@
 StartChar: .notdef
 Encoding: 65536 -1 0
 Width: 745
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar

@@ -2,6 +2,7 @@
 StartChar: at
 Encoding: 64 64 31
 Width: 2048
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 EndChar
