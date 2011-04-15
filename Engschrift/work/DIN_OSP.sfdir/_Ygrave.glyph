@@ -3,9 +3,11 @@ StartChar: Ygrave
 Encoding: 7922 7922 236
 Width: 737
 VWidth: 0
-Flags: HO
+HStem: 1576 280
+VStem: 100.715 364.285
 LayerCount: 2
 Fore
-Refer: 62 96 S 1 0 0 1.17647 -27 196 2
+Refer: 62 96 S 1 0 0 1.17647 -51 136 2
 Refer: 56 89 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar

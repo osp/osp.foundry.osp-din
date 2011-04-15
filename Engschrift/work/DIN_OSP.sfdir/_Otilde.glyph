@@ -3,8 +3,11 @@ StartChar: Otilde
 Encoding: 213 213 114
 Width: 786
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<315.742 470.5> 1229 205<315.742 470.5>
+VStem: 86 205<235.425 1198.06> 496 204<235.425 1198.06>
 LayerCount: 2
 Fore
 Refer: 46 79 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar

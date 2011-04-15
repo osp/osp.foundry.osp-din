@@ -3,7 +3,9 @@ StartChar: T
 Encoding: 84 84 51
 Width: 602
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 21G<199 403> 1229 205<-6 199 403 608>
+VStem: 199 204<0 1229>
 LayerCount: 2
 Fore
 SplineSet
@@ -17,5 +19,6 @@ SplineSet
  -6 1229 l 1
  -6 1434 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 46 -25 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  32 -113 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  13 -188 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  12 -127 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  11 -188 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0" 
 EndChar

@@ -2,8 +2,11 @@
 StartChar: hookabovecomb
 Encoding: 777 777 148
 Width: 825
-Flags: HW
+Flags: W
+HStem: 1224 238
+VStem: -83.2852 364.285
 LayerCount: 2
 Fore
 Refer: 62 96 S 1 0 0 1 -235 0 2
+Validated: 1
 EndChar

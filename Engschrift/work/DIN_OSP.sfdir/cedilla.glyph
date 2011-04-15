@@ -3,8 +3,11 @@ StartChar: cedilla
 Encoding: 184 184 95
 Width: 413
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -224 238
+VStem: 297.259 364.285
 LayerCount: 2
 Fore
 Refer: 62 96 N -1 0 0 1 813.259 -1448 2
+Validated: 25
 EndChar

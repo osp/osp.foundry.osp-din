@@ -3,7 +3,9 @@ StartChar: exclam
 Encoding: 33 33 4
 Width: 434
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<115 319> 1414 20G<115 319>
+VStem: 115 204<0 205 822.453 1434>
 LayerCount: 2
 Fore
 SplineSet
@@ -20,4 +22,5 @@ SplineSet
  115 0 l 1
  115 205 l 1
 EndSplineSet
+Validated: 1
 EndChar

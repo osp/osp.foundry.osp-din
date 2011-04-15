@@ -3,9 +3,11 @@ StartChar: uni1EB8
 Encoding: 7864 7864 172
 Width: 749
 VWidth: 0
-Flags: H
+HStem: -327 205<303 508> 0 205<303 713> 614 205<303 610> 1229 205<303 713>
+VStem: 98 205<205 614 819 1229> 98 615<0 205 1229 1434> 303 205<-327 -122>
 LayerCount: 2
 Fore
 Refer: 149 803 N 1 0 0 1 416 -8.2 2
 Refer: 36 69 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

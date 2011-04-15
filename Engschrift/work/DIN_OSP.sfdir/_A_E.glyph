@@ -3,7 +3,9 @@ StartChar: AE
 Encoding: 198 198 102
 Width: 1267
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 203<821 1231> 307 203<385 618> 614 203<821 1128> 1229 203<821 1231>
+VStem: 618 203<203 305 510 614 817 1126>
 LayerCount: 2
 Fore
 SplineSet
@@ -30,4 +32,5 @@ SplineSet
  618 1126 l 1
  590 1126 l 1
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,9 +3,12 @@ StartChar: ucircumflex
 Encoding: 251 251 140
 Width: 786
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<306.751 424.364> 1004 20<86 291 496 700> 1225.73 220.9
+VStem: 86 205<220.213 1024> 121.996 567.449 496 204<0 205 219.703 1024>
 LayerCount: 2
 Fore
 Refer: 61 94 S 1 0 0 1 45.0001 1.73181 2
 Refer: 83 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

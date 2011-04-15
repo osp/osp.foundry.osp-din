@@ -3,7 +3,9 @@ StartChar: Adieresis
 Encoding: 196 196 101
 Width: 817
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 21G<4 210.948 614.026 821> 309 201<309 516> 1414 20G<306.718 518.282> 1641 203<109 311 518 721>
+VStem: 109 202<1641 1844> 518 203<1641 1844>
 LayerCount: 2
 Fore
 SplineSet
@@ -23,4 +25,5 @@ SplineSet
  414 1024 414 1024 412 1024 c 1
 EndSplineSet
 Refer: 245 776 S 1 0 0 1 27 412 2
+Validated: 1
 EndChar

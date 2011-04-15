@@ -3,21 +3,24 @@ StartChar: J
 Encoding: 74 74 41
 Width: 462
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<-45 129.059> 1414 20G<160 365>
+VStem: 160 205<235.425 1434>
 LayerCount: 2
 Fore
 SplineSet
 160 1434 m 1
  365 1434 l 1
  365 205 l 2
- 365 149 344.833 100.833 304.5 60.5 c 128
+ 365 149 344.833 100.833 304.5 60.5 c 0
  264.167 20.1667 216 0 160 0 c 2
  -45 0 l 1
  -45 205 l 1
  57 205 l 2
- 85.6667 205 110 214.833 130 234.5 c 128
+ 85.6667 205 110 214.833 130 234.5 c 0
  150 254.167 160 278.333 160 307 c 2
  160 1434 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 13 -37 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  11 -37 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0" 
 EndChar

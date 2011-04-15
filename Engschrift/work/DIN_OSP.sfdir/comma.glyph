@@ -3,7 +3,9 @@ StartChar: comma
 Encoding: 44 44 11
 Width: 376
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -205 439
+VStem: 86 205<0 234>
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +15,5 @@ SplineSet
  86 -205 l 1
  89 234 l 5
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,7 +3,7 @@ StartChar: multiply
 Encoding: 215 215 116
 Width: 917
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -21,4 +21,5 @@ SplineSet
  604 749 l 1
  821 532 l 1
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,7 +3,9 @@ StartChar: colon
 Encoding: 58 58 25
 Width: 376
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<86 291> 819 205<86 291>
+VStem: 86 205<0 205 819 1024>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,4 +20,5 @@ SplineSet
  86 0 l 1
  86 205 l 1
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,7 +3,9 @@ StartChar: semicolon
 Encoding: 59 59 26
 Width: 376
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 819 205<86 291>
+VStem: 86 205<0 273 819 1024>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,4 +20,5 @@ SplineSet
  86 -205 l 1
  89 273 l 5
 EndSplineSet
+Validated: 1
 EndChar

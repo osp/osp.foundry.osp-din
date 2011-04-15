@@ -3,7 +3,9 @@ StartChar: l
 Encoding: 108 108 74
 Width: 408
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<300.059 383> 1414 20G<74 279>
+VStem: 74 205<225.747 1434>
 LayerCount: 2
 Fore
 SplineSet
@@ -11,13 +13,14 @@ SplineSet
  279 1434 l 1
  279 309 l 1
  279 305 l 1
- 280.333 277.667 290.833 254.167 310.5 234.5 c 128
+ 280.333 277.667 290.833 254.167 310.5 234.5 c 0
  330.167 214.833 354.333 205 383 205 c 1
  383 0 l 1
- 298.333 -9.53674e-07 226 29.6667 166 89 c 128
+ 298.333 -9.53674e-07 226 29.6667 166 89 c 0
  106 148.333 75.3333 220.333 74 305 c 1
  74 309 l 1
  74 1434 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 88 44 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  86 88 "sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0" 
 EndChar

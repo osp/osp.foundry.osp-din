@@ -3,8 +3,11 @@ StartChar: parenright
 Encoding: 41 41 9
 Width: 448
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 1414 20<39 142>
+VStem: 141 205<231.312 1001.47>
 LayerCount: 2
 Fore
 Refer: 8 40 N -1 0 0 1 385 0 2
+Validated: 25
 EndChar

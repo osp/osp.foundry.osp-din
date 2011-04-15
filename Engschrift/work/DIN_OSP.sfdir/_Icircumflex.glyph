@@ -3,15 +3,18 @@ StartChar: Icircumflex
 Encoding: 206 206 109
 Width: 401
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 21G<98 303> 1414 20G<98 303> 1632 220.9
+VStem: -73.0039 567.449 98 205<0 1434>
 LayerCount: 2
 Fore
 SplineSet
-303 0 m 1
+303 0 m 1xe8
  98 0 l 1
  98 1434 l 1
  303 1434 l 1
- 303 0 l 1
+ 303 0 l 1xe8
 EndSplineSet
 Refer: 61 94 S 1 0 0 1 -150 408 2
+Validated: 1
 EndChar

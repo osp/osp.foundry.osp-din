@@ -2,7 +2,9 @@
 StartChar: dotbelowcomb
 Encoding: 803 803 149
 Width: 0
-Flags: HW
+Flags: W
+HStem: -318.8 205<-113 92>
+VStem: -113 205<-318.8 -113.8>
 LayerCount: 2
 Fore
 SplineSet
@@ -12,4 +14,5 @@ SplineSet
  -113 -318.8 l 1
  -113 -113.8 l 1
 EndSplineSet
+Validated: 1
 EndChar

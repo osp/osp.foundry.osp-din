@@ -3,9 +3,12 @@ StartChar: ugrave
 Encoding: 249 249 139
 Width: 786
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 205<306.751 424.364> 1004 20<86 291 496 700> 1135 238
+VStem: 86 205<220.213 1024> 134.715 364.285 496 204<0 205 219.703 1024>
 LayerCount: 2
 Fore
-Refer: 62 96 S 1 0 0 1 0 0 2
+Refer: 62 96 S 1 0 0 1 -17 -89 2
 Refer: 83 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

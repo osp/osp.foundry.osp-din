@@ -3,6 +3,6 @@ StartChar: .null
 Encoding: 65537 -1 1
 Width: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar

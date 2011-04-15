@@ -3,6 +3,6 @@ StartChar: nonmarkingreturn
 Encoding: 65538 -1 2
 Width: 681
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar

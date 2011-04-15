@@ -3,7 +3,9 @@ StartChar: quotesingle
 Encoding: 39 39 7
 Width: 380
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 1106 328<109 272>
+VStem: 109 163<1106 1434>
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +15,5 @@ SplineSet
  109 1106 l 1
  109 1434 l 1
 EndSplineSet
+Validated: 1
 EndChar

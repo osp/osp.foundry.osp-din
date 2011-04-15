@@ -4,8 +4,11 @@ Encoding: 221 221 242
 Width: 737
 VWidth: 0
 Flags: H
+HStem: 1623 238
+VStem: 297.259 364.285
 LayerCount: 2
 Fore
-Refer: 62 96 S -1 0 0 1 813.259 414 2
+Refer: 62 96 S -1 0 0 1 805.259 335 2
 Refer: 56 89 N 1 0 0 1 0 0 3
+Validated: 25
 EndChar

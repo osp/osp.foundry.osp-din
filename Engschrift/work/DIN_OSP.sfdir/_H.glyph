@@ -3,7 +3,9 @@ StartChar: H
 Encoding: 72 72 39
 Width: 811
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 21G<98 303 508 713> 614 205<303 508> 1414 20G<98 303 508 713>
+VStem: 98 205<0 614 819 1434> 508 205<0 614 819 1434>
 LayerCount: 2
 Fore
 SplineSet
@@ -21,4 +23,5 @@ SplineSet
  98 0 l 1
  98 1434 l 1
 EndSplineSet
+Validated: 1
 EndChar

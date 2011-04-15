@@ -3,7 +3,8 @@ StartChar: bar
 Encoding: 124 124 90
 Width: 413
 GlyphClass: 2
-Flags: HW
+Flags: W
+VStem: 104 205<-202 1639>
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +14,5 @@ SplineSet
  309 1639 l 1
  309 -202 l 1
 EndSplineSet
+Validated: 1
 EndChar

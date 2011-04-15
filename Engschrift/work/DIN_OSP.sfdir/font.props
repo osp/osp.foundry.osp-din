@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1232040855
-ModificationTime: 1302853264
+ModificationTime: 1302859151
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 3
@@ -81,13 +81,12 @@ EndShort
 LangName: 1033 "" "" "" "FontForge 2.0 : OSP-DIN : 2-3-2011" "" "" "" "" "" "" "" "" "http://osp.constantvzw.org/foundry/" "SIL Open Font License, Version 1.1" "http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL" 
 GaspTable: 1 65535 2
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 190 10 4
+WinInfo: 80 10 4
 BeginPrivate: 0
 EndPrivate
 Grid

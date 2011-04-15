@@ -3,15 +3,18 @@ StartChar: Igrave
 Encoding: 204 204 107
 Width: 413
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 0 21G<104 309> 1414 20G<104 309> 1618 238
+VStem: -45.285 364.285 104 205<0 1434>
 LayerCount: 2
 Fore
 SplineSet
-309 0 m 1
+309 0 m 1xe8
  104 0 l 1
  104 1434 l 1
  309 1434 l 1
- 309 0 l 1
+ 309 0 l 1xe8
 EndSplineSet
-Refer: 62 96 S 1 0 0 1 -203 414 2
+Refer: 62 96 S 1 0 0 1 -197 394 2
+Validated: 524289
 EndChar

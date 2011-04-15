@@ -3,9 +3,11 @@ StartChar: uni1EE7
 Encoding: 7911 7911 216
 Width: 786
 VWidth: 0
-Flags: H
+HStem: 0 205<306.751 424.364> 1004 20<86 291 496 700> 1138 238
+VStem: 86 205<220.213 1024> 120.215 364.285 496 204<0 205 219.703 1024>
 LayerCount: 2
 Fore
-Refer: 148 777 N 1 0 0 1 296.5 37 2
+Refer: 148 777 S 1 0 0 1 203.5 -86 2
 Refer: 83 117 N 1 0 0 1 0 0 3
+Validated: 65537
 EndChar
