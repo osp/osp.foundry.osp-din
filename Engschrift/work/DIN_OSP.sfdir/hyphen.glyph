@@ -3,17 +3,17 @@ StartChar: hyphen
 Encoding: 45 45 12
 Width: 671
 GlyphClass: 2
-Flags: W
+Flags: WO
 HStem: 565 164<90 582>
 VStem: 90 492<565 729>
 LayerCount: 2
 Fore
 SplineSet
-90 729 m 1
- 582 729 l 1
- 582 565 l 1
- 90 565 l 1
- 90 729 l 1
+90 729 m 5
+ 582 729 l 5
+ 582 565 l 5
+ 90 565 l 5
+ 90 729 l 5
 EndSplineSet
 Validated: 1
 EndChar
