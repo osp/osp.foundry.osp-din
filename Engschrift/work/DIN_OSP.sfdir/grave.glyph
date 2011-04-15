@@ -3,14 +3,14 @@ StartChar: grave
 Encoding: 96 96 62
 Width: 825
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-118.259 1486.46 m 5
- 332.544 1486.46 l 5
- 595 1224 l 5
- 380.715 1224 l 5
- 118.259 1486.46 l 5
+151.71484375 1462 m 1
+ 346 1462 l 1
+ 516 1224 l 1
+ 355 1224 l 5
+ 151.71484375 1462 l 1
 EndSplineSet
 EndChar

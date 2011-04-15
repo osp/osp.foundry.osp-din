@@ -3,7 +3,7 @@ StartChar: Agrave
 Encoding: 192 192 98
 Width: 825
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
