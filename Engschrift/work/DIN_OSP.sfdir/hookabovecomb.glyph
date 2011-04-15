@@ -1,0 +1,15 @@
+
+StartChar: hookabovecomb
+Encoding: 777 777 148
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+45.5 1109 m 1
+ 147.5 1109 l 1
+ 45.5 1416 l 1
+ -159.5 1416 l 1
+ 45.5 1109 l 1
+EndSplineSet
+EndChar

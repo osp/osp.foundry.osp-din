@@ -1,0 +1,20 @@
+
+StartChar: uni0308
+Encoding: 776 776 245
+Width: 770
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+82 1432 m 5
+ 284 1432 l 5
+ 284 1229 l 5
+ 82 1229 l 5
+ 82 1432 l 5
+491 1432 m 5
+ 694 1432 l 5
+ 694 1229 l 5
+ 491 1229 l 5
+ 491 1432 l 5
+EndSplineSet
+EndChar
