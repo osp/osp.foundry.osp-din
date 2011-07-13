@@ -60,7 +60,22 @@
 	</array>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1638</integer>
@@ -68,10 +83,10 @@
 	<integer>410</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>184</integer>
-	<key>openTypeOS2WinAscender</key>
-	<integer>1745</integer>
-	<key>openTypeOS2WinDescender</key>
-	<integer>-412</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1951</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>-610</integer>
 	<key>openTypeOS2SubscriptXSize</key>
 	<integer>1331</integer>
 	<key>openTypeOS2SubscriptYSize</key>
@@ -92,12 +107,20 @@
 	<integer>100</integer>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>528</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
 	<key>postscriptFontName</key>
 	<string>OSP-DIN</string>
 	<key>postscriptFullName</key>
 	<string>OSP-DIN</string>
 	<key>postscriptWeightName</key>
-	<string>Engschrift</string>
+	<string>Medium</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>102</integer>
 	<key>postscriptUnderlinePosition</key>

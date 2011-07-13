@@ -8,14 +8,47 @@
       <point x="279" y="1434" type="line" smooth="no"/>
       <point x="279" y="309" type="line" smooth="no"/>
       <point x="279" y="305" type="line" smooth="no"/>
-      <point x="281" y="264"/>
-      <point x="340" y="205"/>
-      <point x="383" y="205" type="qcurve" smooth="no"/>
+      <point x="280.333" y="277.667"/>
+      <point x="290.833" y="254.167"/>
+      <point x="310.5" y="234.5" type="curve" smooth="yes"/>
+      <point x="330.167" y="214.833"/>
+      <point x="354.333" y="205"/>
+      <point x="383" y="205" type="curve" smooth="no"/>
       <point x="383" y="0" type="line" smooth="no"/>
-      <point x="256" y="0"/>
-      <point x="76" y="178"/>
-      <point x="74" y="305" type="qcurve" smooth="no"/>
+      <point x="298.333" y="-9.53674e-07"/>
+      <point x="226" y="29.6667"/>
+      <point x="166" y="89" type="curve" smooth="yes"/>
+      <point x="106" y="148.333"/>
+      <point x="75.3333" y="220.333"/>
+      <point x="74" y="305" type="curve" smooth="no"/>
       <point x="74" y="309" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>205</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1414</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>74</integer>
+	    <key>width</key>
+	    <integer>205</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

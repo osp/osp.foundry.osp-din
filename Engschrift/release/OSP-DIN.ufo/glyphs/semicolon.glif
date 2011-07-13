@@ -10,10 +10,33 @@
       <point x="86" y="819" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="86" y="205" type="line" smooth="no"/>
-      <point x="291" y="205" type="line" smooth="no"/>
+      <point x="89" y="273" type="line" smooth="no"/>
+      <point x="294" y="273" type="line" smooth="no"/>
       <point x="291" y="0" type="line" smooth="no"/>
       <point x="86" y="-205" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>819</integer>
+	    <key>width</key>	    <integer>205</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>86</integer>
+	    <key>width</key>
+	    <integer>205</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

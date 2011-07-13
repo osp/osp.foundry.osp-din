@@ -2,7 +2,7 @@
 # GPOS 
 
 
-lookup kernHorizontalKerninginLatinloo {
+lookup kernCrnagehorizontaldansLatinlo {
   lookupflag 0;
     pos \A \Y -113;
     pos \A \W -76;
@@ -69,16 +69,29 @@ lookup kernHorizontalKerninginLatinloo {
     pos \t \x 96;
     pos \t \w 71;
     pos \t \v 74;
-} kernHorizontalKerninginLatinloo;
+} kernCrnagehorizontaldansLatinlo;
 
 feature kern {
 
   script latn;
      language dflt ;
-      lookup kernHorizontalKerninginLatinloo;
+      lookup kernCrnagehorizontaldansLatinlo;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \percent 
+@GDEF_Simple = [\acute \circumflex \quoteright \quoteleft \uni031B \hookabovecomb 
+	\dotbelowcomb \tildecomb \uni1EA3 \uni1EA2 \atilde \Atilde \uni1EA1 \uni1EA0 
+	\uni1EA7 \uni1EA6 \uni1EA9 \uni1EA8 \uni1EAB \uni1EAA \uni1EA5 \uni1EA4 \uni1EAD 
+	\uni1EAC \uni1EBB \uni1EBA \uni1EBD \uni1EBC \uni1EB9 \uni1EB8 \uni1EC1 \uni1EC0 
+	\uni1EC3 \uni1EC2 \uni1EC5 \uni1EC4 \uni1EBF \uni1EBE \uni1EC7 \uni1EC6 \uni1EC9 
+	\uni1EC8 \itilde \Itilde \uni1ECB \uni1ECA \uni1ECF \uni1ECE \otilde \uni1ECD 
+	\uni1ECC \uni1ED3 \uni1ED2 \uni1ED5 \uni1ED4 \uni1ED7 \uni1ED6 \uni1ED1 \uni1ED0 
+	\uni1ED9 \uni1ED8 \ohorn \Ohorn \uni1EDD \uni1EDC \uni1EDF \uni1EDE \uni1EE1 
+	\uni1EE0 \uni1EDB \uni1EDA \uni1EE3 \uni1EE2 \uni1EE7 \uni1EE6 \utilde \Utilde 
+	\uacute \uni1EE5 \uni1EE4 \uhorn \Uhorn \uni1EEB \uni1EEA \uni1EED \uni1EEC 
+	\uni1EEF \uni1EEE \uni1EE9 \uni1EE8 \uni1EF1 \uni1EF0 \ygrave \Ygrave \uni1EF7 
+	\uni1EF6 \uni1EF9 \uni1EF8 \yacute \Yacute \uni1EF5 \uni1EF4 \uni0308 ];
+@GDEF_Ligature = [\.null \nonmarkingreturn \space \exclam \quotedbl \percent 
 	\quotesingle \parenleft \parenright \plus \comma \hyphen \period \slash \zero 
 	\one \two \three \four \five \six \seven \eight \nine \colon \semicolon \less \equal 
 	\greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
@@ -91,7 +104,6 @@ feature kern {
 	\acircumflex \adieresis \ae \ccedilla \egrave \eacute \ecircumflex \edieresis 
 	\igrave \iacute \icircumflex \idieresis \ograve \oacute \ocircumflex \odieresis 
 	\ugrave \ucircumflex \OE \oe ];
-@GDEF_Ligature = [];
 @GDEF_Mark = [];
 @GDEF_Component = [];
 
