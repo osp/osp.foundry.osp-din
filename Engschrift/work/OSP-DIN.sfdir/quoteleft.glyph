@@ -1,0 +1,18 @@
+StartChar: quoteleft
+Encoding: 404 8216 340
+Width: 376
+GlyphClass: 2
+Flags: W
+HStem: 1155 409
+VStem: 104 168<1155 1360>
+LayerCount: 2
+Fore
+SplineSet
+104 1155 m 5,0,-1
+ 104 1360 l 5,1,-1
+ 272 1564 l 5,2,-1
+ 272 1155 l 5,3,-1
+ 104 1155 l 5,0,-1
+EndSplineSet
+Validated: 1
+EndChar

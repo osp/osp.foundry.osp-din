@@ -1,0 +1,13 @@
+StartChar: zcaron
+Encoding: 303 382 306
+Width: 684
+GlyphClass: 2
+Flags: W
+HStem: 0 205<240 649> 819 205<35 444> 1172 221
+VStem: 35 614<0 205 819 1024> 77 567
+LayerCount: 2
+Fore
+Refer: 324 711 N 1 0 0 1 0 0 2
+Refer: 93 122 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

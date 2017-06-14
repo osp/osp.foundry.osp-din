@@ -1,0 +1,13 @@
+StartChar: dcaron
+Encoding: 192 271 195
+Width: 786
+GlyphClass: 2
+Flags: W
+HStem: 0 205<288.588 423.787> 819 205<261.75 426.21> 1414 20G<496 700> 1444 221
+VStem: 79 567 86 205<220.424 741> 496 204<0 205 283 803.576 819 1434>
+LayerCount: 2
+Fore
+Refer: 324 711 N 1 0 0 1 2 272 2
+Refer: 71 100 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

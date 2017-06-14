@@ -1,0 +1,13 @@
+StartChar: jcircumflex
+Encoding: 230 309 233
+Width: 462
+GlyphClass: 2
+Flags: W
+HStem: 0 205<-45 129.059> 1414 20G<160 365> 1593 221
+VStem: -9 567 160 205<235.425 1434>
+LayerCount: 2
+Fore
+Refer: 65 94 N 1 0 0 1 -86 417 2
+Refer: 45 74 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

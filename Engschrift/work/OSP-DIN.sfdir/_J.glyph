@@ -1,0 +1,25 @@
+StartChar: J
+Encoding: 42 74 45
+Width: 462
+GlyphClass: 2
+Flags: W
+HStem: 0 205<-45 129.059> 1414 20G<160 365>
+VStem: 160 205<235.425 1434>
+LayerCount: 2
+Fore
+SplineSet
+-45 0 m 1,0,-1
+ -45 205 l 1,1,-1
+ 57 205 l 2,2,3
+ 100 205 100 205 130 234.5 c 128,-1,4
+ 160 264 160 264 160 307 c 2,5,-1
+ 160 1434 l 1,6,-1
+ 365 1434 l 1,7,-1
+ 365 205 l 2,8,9
+ 365 121 365 121 304.5 60.5 c 128,-1,10
+ 244 0 244 0 160 0 c 2,11,-1
+ -45 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 17 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

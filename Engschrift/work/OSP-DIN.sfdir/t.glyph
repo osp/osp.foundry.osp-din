@@ -1,0 +1,31 @@
+StartChar: t
+Encoding: 84 116 87
+Width: 432
+GlyphClass: 2
+Flags: W
+HStem: 817 205<10 113 317 420>
+VStem: 113 204<234.456 817 1022 1329>
+LayerCount: 2
+Fore
+SplineSet
+10 817 m 1,0,-1
+ 10 1022 l 1,1,-1
+ 113 1022 l 1,2,-1
+ 113 1329 l 1,3,-1
+ 317 1329 l 1,4,-1
+ 317 1022 l 1,5,-1
+ 420 1022 l 1,6,-1
+ 420 817 l 1,7,-1
+ 317 817 l 1,8,-1
+ 317 305 l 2,9,10
+ 317 264 317 264 347 233.5 c 128,-1,11
+ 377 203 377 203 420 203 c 1,12,-1
+ 420 -2 l 1,13,14
+ 293 -2 293 -2 203 88 c 128,-1,15
+ 113 178 113 178 113 305 c 2,16,-1
+ 113 817 l 1,17,-1
+ 10 817 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 93 51 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 65 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 96 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 71 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 74 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,12 @@
+StartChar: eogonek
+Encoding: 202 281 205
+Width: 749
+GlyphClass: 2
+Flags: W
+HStem: -217 238 0 205<297.5 452.258> 410 204<272 477> 819 205<297.5 452.258>
+VStem: 68 204<235.425 410 614 788.575> 114 365 477 205<235.425 307 614 788.575>
+LayerCount: 2
+Fore
+Refer: 113 184 N 1 0 0 1 -183 7 2
+Refer: 72 101 N 1 0 0 1 0 0 2
+EndChar

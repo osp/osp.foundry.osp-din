@@ -1,0 +1,13 @@
+StartChar: scaron
+Encoding: 274 353 277
+Width: 720
+GlyphClass: 2
+Flags: W
+HStem: 0 205<278.742 433.529> 410 204<281.488 440.101> 819 205<287.471 442.258> 1172 221
+VStem: 56 205.879<235.425 307 632.087 788.575> 77 567 459 205<229.527 390.03 717 788.575>
+LayerCount: 2
+Fore
+Refer: 324 711 N 1 0 0 1 0 0 2
+Refer: 86 115 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

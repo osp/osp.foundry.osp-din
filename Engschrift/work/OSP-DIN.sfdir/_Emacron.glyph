@@ -1,0 +1,13 @@
+StartChar: Emacron
+Encoding: 195 274 198
+Width: 749
+GlyphClass: 2
+Flags: W
+HStem: 0 205<303 713> 614 205<303 610> 1229 205<303 713> 1591 164<157 649>
+VStem: 98 205<205 614 819 1229> 98 615<0 205 1229 1434> 157 492<1591 1755>
+LayerCount: 2
+Fore
+Refer: 326 713 N 1 0 0 1 70 417 2
+Refer: 40 69 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

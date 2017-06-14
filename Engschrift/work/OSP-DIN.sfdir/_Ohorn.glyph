@@ -1,0 +1,13 @@
+StartChar: Ohorn
+Encoding: 306 416 309
+Width: 786
+GlyphClass: 2
+Flags: W
+HStem: 0 205<315.742 470.5> 1181 410 1229 205<315.742 470.5>
+VStem: 86 205<235.425 1198.06> 496 204<235.425 1198.06> 606 178<1387 1591>
+LayerCount: 2
+Fore
+Refer: 336 795 N 1 0 0 1 704 222 2
+Refer: 50 79 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

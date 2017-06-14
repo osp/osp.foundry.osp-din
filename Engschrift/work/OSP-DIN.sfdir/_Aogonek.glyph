@@ -1,0 +1,13 @@
+StartChar: Aogonek
+Encoding: 181 260 184
+Width: 825
+GlyphClass: 2
+Flags: W
+HStem: -526 439 0 21G<4 210.948 614.026 821> 309 201<309 516> 1414 20G<306.718 518.282>
+VStem: 321 205<-321 -87>
+LayerCount: 2
+Fore
+Refer: 15 44 N 1 0 0 1 235 -321 2
+Refer: 36 65 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

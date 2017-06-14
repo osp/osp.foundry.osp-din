@@ -1,0 +1,13 @@
+StartChar: Uhorn
+Encoding: 308 431 311
+Width: 811
+GlyphClass: 2
+Flags: W
+HStem: 0 205<328.105 482.895> 1220 410 1414 20G<98 303 508 713>
+VStem: 98 205<235.425 1434> 508 205<235.425 1434> 712.264 159.357<1426 1630>
+LayerCount: 2
+Fore
+Refer: 336 795 N 0.895264 0 0 1 800 261 2
+Refer: 56 85 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

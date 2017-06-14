@@ -1,0 +1,13 @@
+StartChar: Lslash
+Encoding: 242 321 245
+Width: 749
+GlyphClass: 2
+Flags: W
+HStem: 0 205<303 713> 1414 20G<98 303>
+VStem: 98 205<205 1434>
+LayerCount: 2
+Fore
+Refer: 16 45 N 0.819092 0.573547 -0.573608 0.819092 277 90 2
+Refer: 47 76 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Ycircumflex
+Encoding: 295 374 298
+Width: 737
+GlyphClass: 2
+Flags: W
+HStem: 1582 221
+VStem: 77 567
+LayerCount: 2
+Fore
+Refer: 65 94 N 1 0 0 1 0 406 2
+Refer: 60 89 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

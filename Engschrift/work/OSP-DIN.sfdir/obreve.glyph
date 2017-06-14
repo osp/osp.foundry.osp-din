@@ -1,0 +1,13 @@
+StartChar: obreve
+Encoding: 256 335 259
+Width: 753
+GlyphClass: 2
+Flags: W
+HStem: -4 207<299.559 453.801> 813 207<298.715 454.042> 1141 153<252.82 463.68>
+VStem: 55 153<1339.38 1444> 68 206<233.425 782.575> 479 207<232.394 782.575> 508 154<1339.38 1444>
+LayerCount: 2
+Fore
+Refer: 329 728 N 1 0 0 1 0 0 2
+Refer: 82 111 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

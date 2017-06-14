@@ -1,0 +1,108 @@
+SplineFontDB: 3.0
+FontName: OSP-DIN
+FullName: OSP-DIN
+FamilyName: OSP-DIN
+Weight: Medium
+Copyright: Created by Harrisson, Ludi, Antoine Begon and Theo Boissonade - Brussels - 2011, 2016.
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -716
+UnderlineWidth: 102
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Arri+AOgA-re" 1
+Layer: 1 1 "Avant" 0
+XUID: [1021 962 1798745627 11251429]
+StyleMap: 0x0040
+FSType: 4
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1232040855
+ModificationTime: 1497454706
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 3
+LineGap: 184
+VLineGap: 0
+Panose: 2 11 8 6 2 1 2 5 2 3
+OS2TypoAscent: 1638
+OS2TypoAOffset: 0
+OS2TypoDescent: -410
+OS2TypoDOffset: 0
+OS2TypoLinegap: 184
+OS2WinAscent: 1941
+OS2WinAOffset: 0
+OS2WinDescent: 618
+OS2WinDOffset: 0
+HheadAscent: 1941
+HheadAOffset: 0
+HheadDescent: -618
+HheadDOffset: 0
+OS2SubXSize: 1331
+OS2SubYSize: 1434
+OS2SubXOff: 0
+OS2SubYOff: 287
+OS2SupXSize: 1331
+OS2SupYSize: 1434
+OS2SupXOff: 0
+OS2SupYOff: 983
+OS2StrikeYSize: 100
+OS2StrikeYPos: 528
+OS2CapHeight: 1434
+OS2XHeight: 1024
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000001.00000000.00000000.00000000
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: cvt  4
+  33
+  633
+  68
+  1297
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  365
+  110
+  5
+  86
+  4
+  2
+  0
+  1
+  1
+  0
+  64
+  0
+  2
+  3
+EndShort
+LangName: 1033 "" "" "" "FontForge 2.0 : OSP-DIN : 2-3-2011" "" "" "" "" "" "" "" "" "http://osp.kitchen/foundry/osp-din/" "SIL Open Font License, Version 1.1" "http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL"
+GaspTable: 1 65535 2 0
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 323 19 6
+Grid
+-2048 692.166666667 m 0
+ 4096 692.166666667 l 1024
+-2323 -307 m 0
+ 3821 -307 l 1024
+  Named: "fl+AOgA-che"
+292 2583 m 0
+ 292 -1513 l 1024
+-2047 205 m 4
+ 4097 205 l 1028
+  Named: "accent"
+EndSplineSet
+EndSplineFont

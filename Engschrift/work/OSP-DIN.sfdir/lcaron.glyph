@@ -1,0 +1,13 @@
+StartChar: lcaron
+Encoding: 239 318 242
+Width: 408
+GlyphClass: 2
+Flags: W
+HStem: 0 205<300.06 383> 1414 20G<74 279> 1591 221
+VStem: -107 567 74 205<225.748 1434>
+LayerCount: 2
+Fore
+Refer: 324 711 N 1 0 0 1 -184 419 2
+Refer: 79 108 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar
