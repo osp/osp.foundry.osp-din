@@ -8,11 +8,11 @@ We drew the first cut of the open source DIN from grid based drawings similar to
 
 ## Content of the directory
 
--OSP-DIN
+- OSP-DIN
 	- UFO & OTF files
 	- SFD working file
 
--DIN-Eden
+- DIN-Eden
 	- OTF files
 
 - Fontlog  
@@ -38,7 +38,7 @@ To do
 
 ## Information for Contributors
 
-Copyright (C) 2011 OSP  
+Copyright 2011 OSP  
 
 OSP-DIN is released under the OFL 1.1 -- http://scripts.sil.org/OFL For information on what you're allowed to change or modify, consult the ofl.txt and ofl-faq.txt files. The ofl-faq also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
 
