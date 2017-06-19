@@ -11,6 +11,7 @@ We drew the first cut of the open source DIN from grid based drawings similar to
 -OSP-DIN
 	- UFO & OTF files
 	- SFD working file
+
 -DIN-Eden
 	- OTF files
 
@@ -38,9 +39,8 @@ To do
 ## Information for Contributors
 
 Copyright (C) 2011 OSP  
-http://ospublish.constantvzw.org.
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+OSP-DIN is released under the OFL 1.1 -- http://scripts.sil.org/OFL For information on what you're allowed to change or modify, consult the ofl.txt and ofl-faq.txt files. The ofl-faq also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
 
 ## ChangeLog
 
