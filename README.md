@@ -8,16 +8,15 @@ We drew the first cut of the open source DIN from grid based drawings similar to
 
 ## Content of the directory
 
-OSP-DIN
-	*UFO & OTF files
-	*SFD working file
-DIN-Eden
-	*UFO & OTF files
-	*SFD working file
+-OSP-DIN
+	- UFO & OTF files
+	- SFD working file
+-DIN-Eden
+	- OTF files
 
-Fontlog  
+- Fontlog  
 
-OFL Licence + FAQ  
+- OFL Licence + FAQ  
 
 ## Known issues and future developments
 
@@ -25,13 +24,16 @@ To do
 
 ## Coverage
 
-OSP-DIN Condensed currently provides the following Unicode coverage:
-	*Basic Latin: 90/95 
-	*Latin-1 Supplement: 48/96 
+- OSP-DIN Condensed currently provides the following Unicode coverage:
+	- Basic Latin: 95/95 
+	- Latin-1 Supplement: 82/96 
+	- Latin extended A: 128/128 
+	- Latin extended B: 22/208 
 
-DIN-Eden currently provides the following Unicode coverage:
-	*Basic Latin: 95/95 
-	*Latin-1 Supplement: 60/96 
+- DIN-Eden currently provides the following Unicode coverage:
+	- Basic Latin: 92/95 
+	- Latin-1 Supplement: 64/96 
+	- Latin extended A: 13/128
 
 ## Information for Contributors
 
